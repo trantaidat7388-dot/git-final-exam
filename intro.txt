@@ -1,4 +1,6 @@
 Hello, this is Trần Tấn Đạt
+Xin chào, tôi là Trần Tấn Đạt
+Conflict resolved on 08/10/2025
 Tôi đang học tại Trường Đại học ...
 Tôi yêu thích lập trình và khám phá công nghệ mới.
 Tôi học Git để quản lý mã nguồn hiệu quả.
