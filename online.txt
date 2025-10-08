@@ -1,3 +1,7 @@
 Đây là file online.txt được tạo trực tiếp trên GitHub.
 Bài kiểm tra Git – phần làm việc với GitHub.
 Tôi đang thực hành tạo file và commit online.
+
+Thêm dòng thứ 4 để kiểm tra pull và push.
+Git thật tuyệt vời khi hiểu rõ quy trình.
+
