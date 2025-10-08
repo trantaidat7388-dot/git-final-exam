@@ -1,4 +1,4 @@
-Xin chào, tôi là Trần Tấn Đạt.
+Hello, this is Trần Tấn Đạt
 Tôi đang học tại Trường Đại học ...
 Tôi yêu thích lập trình và khám phá công nghệ mới.
 Tôi học Git để quản lý mã nguồn hiệu quả.
