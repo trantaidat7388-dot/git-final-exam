@@ -1,0 +1,3 @@
+Đây là file online.txt được tạo trực tiếp trên GitHub.
+Bài kiểm tra Git – phần làm việc với GitHub.
+Tôi đang thực hành tạo file và commit online.
