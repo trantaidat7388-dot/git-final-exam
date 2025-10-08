@@ -1,0 +1,3 @@
+- Git giúp quản lý mã nguồn hiệu quả
+- Dễ dàng theo dõi thay đổi
+- Học Git rất thú vị
