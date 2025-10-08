@@ -13,3 +13,11 @@ Kỹ năng:
 1. C++
 2. SQL
 3. Git
+
+
+Kế hoạch học tập:
+- Học Git 2 tiếng mỗi ngày.
+- Làm bài tập thực hành trên GitHub.
+- Tìm hiểu các lệnh nâng cao như branch, merge, stash.
+- Xem video hướng dẫn Git và thử áp dụng.
+- Tổng kết và viết báo cáo mỗi tuần.
