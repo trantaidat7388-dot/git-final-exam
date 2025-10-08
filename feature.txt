@@ -1,0 +1,6 @@
+Tính năng mới: Quản lý doanh thu tự động
+- Tự động tổng hợp doanh thu theo ngày.
+- Hỗ trợ lọc theo tháng hoặc năm.
+- Xuất báo cáo ra file .txt hoặc .pdf.
+- Giao diện thân thiện, dễ sử dụng.
+- Cảnh báo nếu doanh thu giảm bất thường.
