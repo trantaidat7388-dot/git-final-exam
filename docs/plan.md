@@ -8,3 +8,8 @@ Ngày kết thúc: 14/10/2025
 - Thứ 6: Ôn lý thuyết GitHub và remote repository.
 - Thứ 7: Làm project nhóm sử dụng Git.
 - Chủ nhật: Tổng kết lại toàn bộ kiến thức đã học.
+
+- Học thêm kỹ năng Git nâng cao
+- Thực hành tạo branch và merge
+- Làm quen với stash và revert
+- Ôn lại các lệnh Git cơ bản
