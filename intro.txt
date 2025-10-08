@@ -1,0 +1,23 @@
+Xin chào, tôi là Trần Tấn Đạt.
+Tôi đang học tại Trường Đại học ...
+Tôi yêu thích lập trình và khám phá công nghệ mới.
+Tôi học Git để quản lý mã nguồn hiệu quả.
+Tôi mong muốn trở thành lập trình viên giỏi.
+
+Sở thích:
+1. Đọc sách
+2. Chơi cờ vua
+3. Lập trình
+
+Kỹ năng:
+1. C++
+2. SQL
+3. Git
+
+
+Kế hoạch học tập:
+- Học Git 2 tiếng mỗi ngày.
+- Làm bài tập thực hành trên GitHub.
+- Tìm hiểu các lệnh nâng cao như branch, merge, stash.
+- Xem video hướng dẫn Git và thử áp dụng.
+- Tổng kết và viết báo cáo mỗi tuần.
