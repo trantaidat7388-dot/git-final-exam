@@ -9,7 +9,12 @@ Ngày kết thúc: 14/10/2025
 - Thứ 7: Làm project nhóm sử dụng Git.
 - Chủ nhật: Tổng kết lại toàn bộ kiến thức đã học.
 
+<<<<<<< Updated upstream
 - Học thêm kỹ năng Git nâng cao
 - Thực hành tạo branch và merge
 - Làm quen với stash và revert
 - Ôn lại các lệnh Git cơ bản
+=======
+- Chuẩn bị cho bài kiểm tra cuối kỳ
+- Hoàn thiện tài liệu học tập
+>>>>>>> Stashed changes
